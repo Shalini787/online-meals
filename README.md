@@ -1,1 +1,1 @@
-# online-meals
+# online-meals-demo
