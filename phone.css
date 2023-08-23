@@ -1,0 +1,50 @@
+/* Phone m hmari website kesi dikhegi ye btaega */
+/* NAVIGATION */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1 rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/* HOME SECTION */
+#home{
+    height: 370px;
+    padding: 3px 38px;
+}
+#home::before{
+    height: 400px;
+}
+#home p{
+    font-size: 13px;
+}
+/* SERVICES SECTION */
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 16px;
+    margin: 3px 16px;
+}
+/* CLIENT SECTION */
+#clients{
+    /* overflow: hidden; */
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 48px;
+    padding: 4px 17px;
+    height: auto;
+}
+/* CONTACT US SECTION */
+
+/* FOOTER */
+/* UTILITY CLASSES */
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
